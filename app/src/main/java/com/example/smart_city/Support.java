@@ -49,7 +49,7 @@ public class Support extends AppCompatActivity {
     // Function to send SMS
     private void sendSMS() {
         String message = ed1.getText().toString().trim();
-        String phoneNumber = "9699039675"; // Change this to the actual recipient's number
+        String phoneNumber = ""; // Change this to the actual recipient's number
 
         if (!message.isEmpty()) {
             try {

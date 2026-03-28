@@ -95,7 +95,7 @@
             android:resource="@color/black" />
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBq4XrqOxMsw2qG6SL0sGOTQB1URd1_eKI" /> <!-- Internet Permission for Firebase -->
+            android:value="value" /> <!-- Internet Permission for Firebase -->
         <uses-library
             android:name="org.apache.http.legacy"
             android:required="false" />
